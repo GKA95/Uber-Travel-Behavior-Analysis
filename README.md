@@ -1,39 +1,40 @@
 # Uber-Travel-Behavior-Analysis
-🚖 Uber Travel Behavior Analysis | Python Data Analytics Project
+Project Overview
 
-I recently completed an end-to-end data analytics project analyzing Uber trip data to uncover travel behavior patterns and business mobility trends.
+#This project explores Uber ride patterns using exploratory data analysis (EDA) techniques to uncover insights into travel behavior, trip purposes, peak travel periods, and location-based demand.
 
-🔍 Project Highlights:
+#Objectives
+Analyze Uber trip categories
+Identify peak travel hours
+Understand ride purposes
+Discover busiest weekdays
+Investigate monthly ride trends
+Identify top boarding locations
 
-• Cleaned and transformed ride data using Python and Pandas
-• Performed exploratory data analysis (EDA) on 653 completed trips
-• Engineered time-based features including hour, weekday, and month
-• Built visualizations to identify peak travel periods and demand patterns
-• Developed an interactive analytical dashboard summarizing key insights
+#Tools Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
 
-📊 Key Findings:
+#Key Findings
 
-✅ More than 99% of recorded trips were business-related
+✅ 99%+ of trips were business-related
 
-✅ Meetings, customer visits, and business errands were the most common trip purposes
+✅ Meetings and customer visits dominated ride purposes
 
-✅ Travel demand showed clear peak-hour patterns
+✅ Travel demand concentrated during specific hours
 
-✅ Ride activity varied significantly across weekdays and months
+✅ Certain weekdays experienced significantly higher ride activity
 
-✅ A small number of boarding locations accounted for a large share of trips
+✅ A small number of locations generated the majority of ride demand
 
-🛠️ Tools & Technologies:
-Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
+#Business Impact
+The insights can support:
 
-This project strengthened my skills in:
-• Data Cleaning
-• Exploratory Data Analysis (EDA)
-• Feature Engineering
-• Data Visualization
-• Business Insight Generation
-• Dashboard Development
-
-GitHub Repository: [Add GitHub Link]
-
-#DataAnalytics #Python #DataScience #EDA #BusinessIntelligence #AnalyticsPortfolio #DataVisualization #UberData #Pandas #OpenToWork
+Demand forecasting
+Driver allocation
+Corporate mobility solutions
+Operational optimization
